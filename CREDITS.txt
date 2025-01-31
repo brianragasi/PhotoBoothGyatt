@@ -1,0 +1,23 @@
+Photo Booth Application Assets Credits
+
+This file lists all external assets used in the application and their respective licenses.
+
+1. Frames
+- All frame assets should be placed in /assets/frames
+- Ensure all frames are PNG format with transparency
+- License requirements: CC0 (Public Domain) or Commercial Use Allowed
+
+2. Stickers
+- All sticker assets should be placed in /assets/stickers
+- PNG format with transparency required
+- License requirements: CC0 (Public Domain) or Commercial Use Allowed
+
+3. Fonts
+- Custom anime fonts should be placed in /assets/fonts
+- License requirements: Check individual font licenses for commercial use permissions
+
+Note: Before adding any assets to these folders, ensure they meet the following criteria:
+- Verified CC0 license or commercial use allowed
+- No attribution required (or attribution provided in this file)
+- Modified if necessary to avoid copyright issues
+- Properly optimized for web use
